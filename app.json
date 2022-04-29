@@ -3,7 +3,7 @@
     "description": "Pikachu is the Modified Version of WhatsAsena, Made By @Ameer Suhail with Baileys.",
     "logo": "https://i.imgur.com/SoIxkUE.jpeg",
     "keywords": ["whatsapp", "userbot", "pikachu", "WhatsAsena", "pikachu", "bot", "ai"],
-    "repository": "https://github.com/ameer-kallumthodi/pikachu",
+    "repository": "https://github.com/ihtisham3565/pikachu",
     "website":   "https://github.com/ameer-kallumthodi/pikachu",
     "success_url": "https://github.com/ameer-kallumthodi/pikachu",
     "stack": "container",
@@ -194,12 +194,12 @@
         "SONGD": {
             "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
             "required": true,
-            "value": "✮⃝🎸ρ𝓲𝘬ꪖᥴꫝꪊ ᦔꪮ᭙ꪀꪶꪮꪖᦔ𝓲ꪀᧁ ꪗꪮꪊ𝘳 𝘴ꪮꪀᧁ✮⃝🎧"
+            "value": "✮⃝🎸мαℓικ ᦔꪮ᭙ꪀꪶꪮꪖᦔ𝓲ꪀᧁ ꪗꪮꪊ𝘳 𝘴ꪮꪀᧁ✮⃝🎧"
         },
         "SONGU": {
             "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
             "required": true,
-            "value": "✮⃝🎸ρ𝓲𝘬ꪖᥴꫝꪊ ꪊρꪶꪮꪖᦔ𝓲ꪀᧁ ꪗꪮꪊ𝘳 𝘴ꪮꪀᧁ ✮⃝🎧"
+            "value": "✮⃝🎸мαℓικ ꪊρꪶꪮꪖᦔ𝓲ꪀᧁ ꪗꪮꪊ𝘳 𝘴ꪮꪀᧁ ✮⃝🎧"
         },
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
