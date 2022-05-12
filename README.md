@@ -91,7 +91,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/ihtisham3565/pikachu
 $ cd pikachu
 $ chmod +x *
 $ npm i
@@ -112,7 +112,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Prince Rudh`](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/ameer-kallumthodi)
+  [![`Prince Rudh`](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/ihtisham3565)
 
 [`Ameer Suhail`](https://github.com/ameer-kallumthodi)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
